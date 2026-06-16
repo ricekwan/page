@@ -1,0 +1,98 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/theme.json",
+  "title": "Plum Pink",
+  "version": 2,
+  "settings": {
+    "color": {
+        "palette": [
+            {
+                "color": "#FFFFFF",
+                "name": "Base",
+                "slug": "base"
+            },
+            {
+                "color": "#111827",
+                "name": "Primary",
+                "slug": "primary"
+            },
+            {
+                "color": "#14B8A6",
+                "name": "Secondary",
+                "slug": "secondary"
+            },
+            {
+                "color": "#8B5CF6",
+                "name": "Tertiary",
+                "slug": "tertiary"
+            },
+            {
+                "color": "#4F46E5",
+                "name": "Quaternary",
+                "slug": "quaternary"
+            },
+            {
+                "color": "#F43F5E",
+                "name": "Senary",
+                "slug": "senary"
+            },
+            {
+                "color": "#0EA5E9",
+                "name": "Septenary",
+                "slug": "septenary"
+            },
+            {
+                "color": "#F59E0B",
+                "name": "Octonary",
+                "slug": "octonary"
+            },
+            {
+                "color": "#11182712",
+                "name": "Section Background",
+                "slug": "section-bg"
+            },
+            {
+                "color": "#030712",
+                "name": "Section Background Second",
+                "slug": "section-bg-sec"
+            },
+            {
+                "color": "#ffffff",
+                "name": "Text Color",
+                "slug": "text-color"
+            },
+            {
+                "color": "#070707",
+                "name": "Headings",
+                "slug": "heading"
+            },
+            {
+                "color": "#FFFFFF",
+                "name": "Background",
+                "slug": "background"
+            },
+            {
+                "color": "#00000040",
+                "name": "Border Color",
+                "slug": "border-color"
+            },
+            {
+                "color": "#00000040",
+                "name": "Sidebar Shadow Color",
+                "slug": "sidebar-shadow-color"
+            }
+        ],
+        "gradients": [
+            {
+                "slug": "primary-gradient",
+                "gradient": "linear-gradient(124.86deg, #F43F5E -8.3%, #14B8A6 100%)",
+                "name": "Primary Gradient"
+            },
+            {
+                "slug": "secondary-gradient",
+                "gradient": "linear-gradient(180deg, #8B5CF6 0%, #0EA5E9 100%)",
+                "name": "Secondary Gradient"
+            }
+        ]
+    }
+  }
+}
