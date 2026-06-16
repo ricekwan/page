@@ -1,0 +1,920 @@
+# Copyright (C) 2026 pewilliams
+# This file is distributed under the GNU General Public License.
+msgid ""
+msgstr ""
+"Project-Id-Version: AI Enterprise 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/ai-enterprise\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2026-05-25T18:46:54+05:30\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.10.0\n"
+"X-Domain: ai-enterprise\n"
+
+#. Theme Name of the theme
+#: style.css
+#: block-patterns.php:17
+msgid "AI Enterprise"
+msgstr ""
+
+#. Theme URI of the theme
+#: style.css
+msgid "https://www.ovationthemes.com/products/ai-enterprise"
+msgstr ""
+
+#. Description of the theme
+#: style.css
+msgid "The AI Enterprise theme is designed for technology companies, SaaS platforms, and startups focused on artificial intelligence and digital solutions. It includes structured layouts for service details, product showcases, team profiles, pricing sections, testimonials, and contact information. The responsive design ensures smooth functionality across desktops, tablets, and mobile devices. Customization options allow adjustments to typography, colors, banners, and page layouts while maintaining a modern and organized appearance. The theme also supports blog sections, image galleries, and call-to-action areas for presenting AI tools and business services clearly. Suitable for an AI data science company, digital AI agency, chatbot platform, machine learning service, or AI image generator project, the layout provides a professional framework for showcasing artificial intelligence technologies, AI models, automation services, and startup solutions in a structured and accessible format."
+msgstr ""
+
+#. Author of the theme
+#: style.css
+msgid "pewilliams"
+msgstr ""
+
+#. Author URI of the theme
+#: style.css
+msgid "https://www.ovationthemes.com/"
+msgstr ""
+
+#: patterns/404.php
+msgctxt "Pattern title"
+msgid "Page Not Found"
+msgstr ""
+
+#: patterns/404.php:11
+msgid "404"
+msgstr ""
+
+#: patterns/404.php:15
+msgid "Page not found!"
+msgstr ""
+
+#: patterns/404.php:19
+msgid "Sorry, the page you are looking for does not exist or has been moved."
+msgstr ""
+
+#: patterns/404.php:24
+msgid "Return Home"
+msgstr ""
+
+#: patterns/about-section.php
+msgctxt "Pattern title"
+msgid "About Section"
+msgstr ""
+
+#: patterns/about-section.php:12
+#: patterns/footer.php:40
+msgid "About Us"
+msgstr ""
+
+#: patterns/about-section.php:16
+msgid "Empowering businesses with smart AI automation"
+msgstr ""
+
+#: patterns/about-section.php:29
+msgid "08 +"
+msgstr ""
+
+#: patterns/about-section.php:33
+msgid "years of"
+msgstr ""
+
+#: patterns/about-section.php:33
+msgid "experience"
+msgstr ""
+
+#: patterns/about-section.php:41
+msgid "Innovating the future with intelligent AI solutions for businesses, startups, and modern enterprises. We create smart automation, AI-powered tools, and next-generation digital experiences that help brands work faster, grow smarter, and stay ahead in the evolving technology landscape. Empowering businesses with smart AI automation, intelligent solutions, and next-generation digital innovation."
+msgstr ""
+
+#: patterns/archive.php
+msgctxt "Pattern title"
+msgid "Archives"
+msgstr ""
+
+#: patterns/banner.php
+msgctxt "Pattern title"
+msgid "Banner"
+msgstr ""
+
+#: patterns/banner.php:16
+msgid "AI-Powered autonomous agents"
+msgstr ""
+
+#: patterns/banner.php:33
+msgid "Build smarter AI agents that "
+msgstr ""
+
+#: patterns/banner.php:33
+msgid "Manage"
+msgstr ""
+
+#: patterns/banner.php:37
+msgid "Define the goal, connect your workflows, and let agents do the work while you focus on decisions that matter."
+msgstr ""
+
+#: patterns/banner.php:42
+#: patterns/service-section.php:64
+#: patterns/service-section.php:114
+#: patterns/service-section.php:164
+#: patterns/service-section.php:214
+msgid "Start free trial"
+msgstr ""
+
+#: patterns/banner.php:46
+msgid "See how it works"
+msgstr ""
+
+#: patterns/banner.php:54
+msgid "Meeting Calls"
+msgstr ""
+
+#: patterns/banner.php:59
+msgid "AI is taking Notes"
+msgstr ""
+
+#: patterns/banner.php:88
+msgid "Heres summer of todays Meeting "
+msgstr ""
+
+#: patterns/banner.php:92
+msgid "Lorem ipsum dolor sit amit."
+msgstr ""
+
+#: patterns/banner.php:103
+msgid "Sources"
+msgstr ""
+
+#: patterns/banner.php:108
+msgid "Document.pdf"
+msgstr ""
+
+#: patterns/banner.php:112
+msgid "https://example.com"
+msgstr ""
+
+#: patterns/banner.php:116
+msgid "+ Add Sources(S)"
+msgstr ""
+
+#: patterns/cart.php
+msgctxt "Pattern title"
+msgid "Cart"
+msgstr ""
+
+#: patterns/cart.php:18
+msgid "You may be interested in…"
+msgstr ""
+
+#: patterns/cart.php:74
+msgid "Your cart is currently empty!"
+msgstr ""
+
+#: patterns/cart.php:82
+msgid "New in store"
+msgstr ""
+
+#: patterns/faq-section.php
+msgctxt "Pattern title"
+msgid "FAQ Section"
+msgstr ""
+
+#: patterns/faq-section.php:13
+msgid "FAQ"
+msgstr ""
+
+#: patterns/faq-section.php:17
+msgid "Frequently Asked Questions"
+msgstr ""
+
+#: patterns/faq-section.php:25
+msgid "1. What is Artificial Intelligence and how does it work?"
+msgstr ""
+
+#: patterns/faq-section.php:26
+#: patterns/faq-section.php:32
+#: patterns/faq-section.php:38
+#: patterns/faq-section.php:44
+#: patterns/faq-section.php:54
+#: patterns/faq-section.php:60
+#: patterns/faq-section.php:66
+#: patterns/faq-section.php:72
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam."
+msgstr ""
+
+#: patterns/faq-section.php:31
+msgid "2. How can AI help improve business productivity?"
+msgstr ""
+
+#: patterns/faq-section.php:37
+msgid "3. What AI solutions do you provide for businesses?"
+msgstr ""
+
+#: patterns/faq-section.php:43
+msgid "4. Is AI technology secure for business operations?"
+msgstr ""
+
+#: patterns/faq-section.php:53
+msgid "5. Can AI automate repetitive daily tasks?"
+msgstr ""
+
+#: patterns/faq-section.php:59
+msgid "6.How does AI improve customer experience?"
+msgstr ""
+
+#: patterns/faq-section.php:65
+msgid "7. Do I need technical knowledge to use AI tools?"
+msgstr ""
+
+#: patterns/faq-section.php:71
+msgid "8.What industries can benefit from AI solutions?"
+msgstr ""
+
+#: patterns/footer.php
+msgctxt "Pattern title"
+msgid "Footer"
+msgstr ""
+
+#: patterns/footer.php:17
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut perspiciatis unde omnis iste."
+msgstr ""
+
+#: patterns/footer.php:21
+msgid "+1234567890"
+msgstr ""
+
+#: patterns/footer.php:25
+msgid "support@example.com"
+msgstr ""
+
+#: patterns/footer.php:29
+msgid "25/B Milford Road, New York"
+msgstr ""
+
+#: patterns/footer.php:35
+msgid "Quick Links"
+msgstr ""
+
+#: patterns/footer.php:44
+#: patterns/footer.php:63
+msgid "Services"
+msgstr ""
+
+#: patterns/footer.php:48
+msgid "Pricing"
+msgstr ""
+
+#: patterns/footer.php:52
+#: patterns/latest-news.php:11
+msgid "Blog"
+msgstr ""
+
+#: patterns/footer.php:56
+msgid "Contact"
+msgstr ""
+
+#: patterns/footer.php:68
+#: patterns/service-section.php:35
+#: patterns/service-section.php:50
+msgid "Robotic Automation"
+msgstr ""
+
+#: patterns/footer.php:72
+msgid ""
+"\r\n"
+"Deep Learning"
+msgstr ""
+
+#: patterns/footer.php:77
+#: patterns/service-section.php:135
+#: patterns/service-section.php:150
+msgid "Security Surveillance"
+msgstr ""
+
+#: patterns/footer.php:81
+msgid ""
+"Virtual Reality\r\n"
+""
+msgstr ""
+
+#: patterns/footer.php:91
+msgid "Solutions"
+msgstr ""
+
+#: patterns/footer.php:96
+msgid "AI Automation"
+msgstr ""
+
+#: patterns/footer.php:100
+msgid "Machine Learning"
+msgstr ""
+
+#: patterns/footer.php:104
+msgid "AI Chatbots"
+msgstr ""
+
+#: patterns/footer.php:108
+msgid "Data Analytics"
+msgstr ""
+
+#: patterns/footer.php:112
+msgid "Cloud AI Solutions"
+msgstr ""
+
+#: patterns/footer.php:122
+msgid "AI Enterprise Theme Proudly powered by "
+msgstr ""
+
+#: patterns/footer.php:122
+msgid "Ovation Themes "
+msgstr ""
+
+#: patterns/footer.php:122
+msgid " and "
+msgstr ""
+
+#: patterns/footer.php:122
+msgid "WordPress."
+msgstr ""
+
+#: patterns/header-image.php
+msgctxt "Pattern title"
+msgid "Header Image"
+msgstr ""
+
+#: patterns/header.php
+msgctxt "Pattern title"
+msgid "Header"
+msgstr ""
+
+#: patterns/header.php:36
+msgid "Get started"
+msgstr ""
+
+#: patterns/index-header-image.php
+msgctxt "Pattern title"
+msgid "Index Header Image"
+msgstr ""
+
+#: patterns/index-header-image.php:11
+msgid "blog"
+msgstr ""
+
+#: patterns/latest-news.php
+msgctxt "Pattern title"
+msgid "Latest News"
+msgstr ""
+
+#: patterns/latest-news.php:11
+msgid "Our "
+msgstr ""
+
+#: patterns/latest-news.php:15
+msgid "Latest AI Insights & Technology Trends"
+msgstr ""
+
+#: patterns/more-post.php
+msgctxt "Pattern title"
+msgid "More Post"
+msgstr ""
+
+#: patterns/more-post.php:11
+msgid "More Articles &amp; Posts"
+msgstr ""
+
+#: patterns/page-title.php
+msgctxt "Pattern title"
+msgid "Page Title"
+msgstr ""
+
+#: patterns/product-search-header-image.php
+msgctxt "Pattern title"
+msgid "Product Search Header Image"
+msgstr ""
+
+#: patterns/search-product.php
+msgctxt "Pattern title"
+msgid "Search Product"
+msgstr ""
+
+#: patterns/search-product.php:38
+msgid "No products were found matching your selection."
+msgstr ""
+
+#: patterns/search.php
+msgctxt "Pattern title"
+msgid "Search"
+msgstr ""
+
+#: patterns/service-section.php
+msgctxt "Pattern title"
+msgid "Service Section"
+msgstr ""
+
+#: patterns/service-section.php:10
+msgid "Our Services"
+msgstr ""
+
+#: patterns/service-section.php:15
+msgid "Here summer of todays Meeting"
+msgstr ""
+
+#: patterns/service-section.php:31
+#: patterns/service-section.php:58
+msgid "01"
+msgstr ""
+
+#: patterns/service-section.php:54
+#: patterns/service-section.php:104
+#: patterns/service-section.php:154
+#: patterns/service-section.php:204
+msgid "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout"
+msgstr ""
+
+#: patterns/service-section.php:81
+#: patterns/service-section.php:108
+msgid "02"
+msgstr ""
+
+#: patterns/service-section.php:85
+#: patterns/service-section.php:100
+msgid "Deep Learning"
+msgstr ""
+
+#: patterns/service-section.php:131
+#: patterns/service-section.php:158
+msgid "03"
+msgstr ""
+
+#: patterns/service-section.php:181
+#: patterns/service-section.php:208
+msgid "04"
+msgstr ""
+
+#: patterns/service-section.php:185
+#: patterns/service-section.php:200
+msgid "Virtual Reality"
+msgstr ""
+
+#: patterns/sidebar.php
+msgctxt "Pattern title"
+msgid "Sidebar"
+msgstr ""
+
+#: patterns/sidebar.php:12
+msgid "Search"
+msgstr ""
+
+#: patterns/sidebar.php:22
+msgid "Popular Posts"
+msgstr ""
+
+#: patterns/sidebar.php:38
+msgid "Categories"
+msgstr ""
+
+#: patterns/sidebar.php:48
+msgid "Pages"
+msgstr ""
+
+#: patterns/sidebar.php:58
+msgid "Archives"
+msgstr ""
+
+#: patterns/sidebar.php:68
+msgid "Tags"
+msgstr ""
+
+#: patterns/sidebar.php:78
+msgid "Follow Us"
+msgstr ""
+
+#: patterns/single-product.php
+msgctxt "Pattern title"
+msgid "Single Product"
+msgstr ""
+
+#: patterns/single-product.php:46
+msgid "Related Products"
+msgstr ""
+
+#: patterns/testimonial.php
+msgctxt "Pattern title"
+msgid "Testimonial Section"
+msgstr ""
+
+#: patterns/testimonial.php:12
+msgid "What Our Clients "
+msgstr ""
+
+#: patterns/testimonial.php:12
+msgid "Say"
+msgstr ""
+
+#: patterns/testimonial.php:16
+msgid "Industry leaders who trust our manufacturing expertise."
+msgstr ""
+
+#: patterns/testimonial.php:27
+msgid "Ava Mitchell"
+msgstr ""
+
+#: patterns/testimonial.php:31
+#: patterns/testimonial.php:49
+#: patterns/testimonial.php:67
+#: patterns/testimonial.php:85
+#: patterns/testimonial.php:103
+msgid "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut perspiciatis unde omnis iste natus error"
+msgstr ""
+
+#: patterns/testimonial.php:45
+msgid "Rahul Desai"
+msgstr ""
+
+#: patterns/testimonial.php:63
+msgid "Claire Benson"
+msgstr ""
+
+#: patterns/testimonial.php:81
+msgid "Liam Chen"
+msgstr ""
+
+#: patterns/testimonial.php:99
+msgid "Sophia James"
+msgstr ""
+
+#: styles/deep-teal.json
+msgctxt "Style variation name"
+msgid "Deep Teal"
+msgstr ""
+
+#: styles/deep-teal.json
+#: styles/deep-violet.json
+#: styles/emerald-green.json
+#: styles/golden-brown.json
+#: styles/olive-green.json
+#: styles/plum-pink.json
+#: theme.json
+msgctxt "Color name"
+msgid "Base"
+msgstr ""
+
+#: styles/deep-teal.json
+#: styles/deep-violet.json
+#: styles/emerald-green.json
+#: styles/golden-brown.json
+#: styles/olive-green.json
+#: styles/plum-pink.json
+#: theme.json
+msgctxt "Color name"
+msgid "Primary"
+msgstr ""
+
+#: styles/deep-teal.json
+#: styles/deep-violet.json
+#: styles/emerald-green.json
+#: styles/golden-brown.json
+#: styles/olive-green.json
+#: styles/plum-pink.json
+#: theme.json
+msgctxt "Color name"
+msgid "Secondary"
+msgstr ""
+
+#: styles/deep-teal.json
+#: styles/deep-violet.json
+#: styles/emerald-green.json
+#: styles/golden-brown.json
+#: styles/olive-green.json
+#: styles/plum-pink.json
+#: theme.json
+msgctxt "Color name"
+msgid "Tertiary"
+msgstr ""
+
+#: styles/deep-teal.json
+#: styles/deep-violet.json
+#: styles/emerald-green.json
+#: styles/golden-brown.json
+#: styles/olive-green.json
+#: styles/plum-pink.json
+#: theme.json
+msgctxt "Color name"
+msgid "Quaternary"
+msgstr ""
+
+#: styles/deep-teal.json
+#: styles/deep-violet.json
+#: styles/emerald-green.json
+#: styles/golden-brown.json
+#: styles/olive-green.json
+#: styles/plum-pink.json
+#: theme.json
+msgctxt "Color name"
+msgid "Senary"
+msgstr ""
+
+#: styles/deep-teal.json
+#: styles/deep-violet.json
+#: styles/emerald-green.json
+#: styles/golden-brown.json
+#: styles/olive-green.json
+#: styles/plum-pink.json
+#: theme.json
+msgctxt "Color name"
+msgid "Septenary"
+msgstr ""
+
+#: styles/deep-teal.json
+#: styles/deep-violet.json
+#: styles/emerald-green.json
+#: styles/golden-brown.json
+#: styles/olive-green.json
+#: styles/plum-pink.json
+#: theme.json
+msgctxt "Color name"
+msgid "Octonary"
+msgstr ""
+
+#: styles/deep-teal.json
+#: styles/deep-violet.json
+#: styles/emerald-green.json
+#: styles/golden-brown.json
+#: styles/olive-green.json
+#: styles/plum-pink.json
+#: theme.json
+msgctxt "Color name"
+msgid "Section Background"
+msgstr ""
+
+#: styles/deep-teal.json
+#: styles/deep-violet.json
+#: styles/emerald-green.json
+#: styles/golden-brown.json
+#: styles/olive-green.json
+#: styles/plum-pink.json
+#: theme.json
+msgctxt "Color name"
+msgid "Section Background Second"
+msgstr ""
+
+#: styles/deep-teal.json
+#: styles/deep-violet.json
+#: styles/emerald-green.json
+#: styles/golden-brown.json
+#: styles/olive-green.json
+#: styles/plum-pink.json
+#: theme.json
+msgctxt "Color name"
+msgid "Text Color"
+msgstr ""
+
+#: styles/deep-teal.json
+#: styles/deep-violet.json
+#: styles/emerald-green.json
+#: styles/golden-brown.json
+#: styles/olive-green.json
+#: styles/plum-pink.json
+#: theme.json
+msgctxt "Color name"
+msgid "Headings"
+msgstr ""
+
+#: styles/deep-teal.json
+#: styles/deep-violet.json
+#: styles/emerald-green.json
+#: styles/golden-brown.json
+#: styles/olive-green.json
+#: styles/plum-pink.json
+#: theme.json
+msgctxt "Color name"
+msgid "Background"
+msgstr ""
+
+#: styles/deep-teal.json
+#: styles/deep-violet.json
+#: styles/emerald-green.json
+#: styles/golden-brown.json
+#: styles/olive-green.json
+#: styles/plum-pink.json
+#: theme.json
+msgctxt "Color name"
+msgid "Border Color"
+msgstr ""
+
+#: styles/deep-teal.json
+#: styles/deep-violet.json
+#: styles/emerald-green.json
+#: styles/golden-brown.json
+#: styles/olive-green.json
+#: styles/plum-pink.json
+#: theme.json
+msgctxt "Color name"
+msgid "Sidebar Shadow Color"
+msgstr ""
+
+#: styles/deep-teal.json
+#: styles/deep-violet.json
+#: styles/emerald-green.json
+#: styles/golden-brown.json
+#: styles/olive-green.json
+#: styles/plum-pink.json
+#: theme.json
+msgctxt "Gradient name"
+msgid "Primary Gradient"
+msgstr ""
+
+#: styles/deep-teal.json
+#: styles/deep-violet.json
+#: styles/emerald-green.json
+#: styles/golden-brown.json
+#: styles/olive-green.json
+#: styles/plum-pink.json
+#: theme.json
+msgctxt "Gradient name"
+msgid "Secondary Gradient"
+msgstr ""
+
+#: styles/deep-violet.json
+msgctxt "Style variation name"
+msgid "Deep Violet"
+msgstr ""
+
+#: styles/emerald-green.json
+msgctxt "Style variation name"
+msgid "Emerald Green"
+msgstr ""
+
+#: styles/golden-brown.json
+msgctxt "Style variation name"
+msgid "Golden Brown"
+msgstr ""
+
+#: styles/olive-green.json
+msgctxt "Style variation name"
+msgid "Olive Green"
+msgstr ""
+
+#: styles/plum-pink.json
+msgctxt "Style variation name"
+msgid "Plum Pink"
+msgstr ""
+
+#: theme.json
+msgctxt "Style variation name"
+msgid "Lite"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "League Spartan"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Poppins"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Elsie"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Lora"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "lato"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Satisfy"
+msgstr ""
+
+#: theme.json
+msgctxt "Font family name"
+msgid "Inter"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Body Text"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Small"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Medium"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Regular"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Extra Large"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Big"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Huge"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Gigantic"
+msgstr ""
+
+#: theme.json
+msgctxt "Font size name"
+msgid "Banner Title"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Header"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Footer"
+msgstr ""
+
+#: theme.json
+msgctxt "Template part name"
+msgid "Sidebar"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Grid Layout(Archieve posts)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Left Sidebar(Archieve posts)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Right Sidebar(Archieve posts)"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page Left Sidebar"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page Right Sidebar"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Page Without Header Image"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Post Left Sidebar"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Post No Sidebar"
+msgstr ""
+
+#: theme.json
+msgctxt "Custom template name"
+msgid "Post Without Header Image"
+msgstr ""
